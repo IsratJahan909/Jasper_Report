@@ -1,0 +1,16 @@
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\config\ApiLoggingAspect.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\config\WebConfig.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\controller\CategoryController.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\controller\ProductController.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\controller\ReportController.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\dto\OrderDetails.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\entity\Category.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\entity\Product.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\enums\Category.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\repository\CategoryRepository.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\repository\ProductRepository.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\service\CategoryService.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\service\FileStorageService.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\service\ProductService.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\service\ReportService.java
+F:\Multipart\nila\nila\springRestCRUD\src\main\java\com\abc\springRestCRUD\SpringRestCrudApplication.java

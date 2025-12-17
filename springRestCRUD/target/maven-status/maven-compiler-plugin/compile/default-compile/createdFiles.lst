@@ -1,0 +1,16 @@
+com\abc\springRestCRUD\controller\ProductController.class
+com\abc\springRestCRUD\SpringRestCrudApplication.class
+com\abc\springRestCRUD\dto\OrderDetails.class
+com\abc\springRestCRUD\service\CategoryService.class
+com\abc\springRestCRUD\service\FileStorageService.class
+com\abc\springRestCRUD\entity\Category$CategoryBuilder.class
+com\abc\springRestCRUD\controller\ReportController.class
+com\abc\springRestCRUD\repository\ProductRepository.class
+com\abc\springRestCRUD\config\WebConfig.class
+com\abc\springRestCRUD\service\ProductService.class
+com\abc\springRestCRUD\entity\Category.class
+com\abc\springRestCRUD\repository\CategoryRepository.class
+com\abc\springRestCRUD\entity\Product.class
+com\abc\springRestCRUD\config\ApiLoggingAspect.class
+com\abc\springRestCRUD\controller\CategoryController.class
+com\abc\springRestCRUD\service\ReportService.class
